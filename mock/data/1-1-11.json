@@ -1,0 +1,52 @@
+{
+    "zid": "1-1-10",
+    "adtpl":"<a href='<%=clickurl%>'><img src='<%=content%>'></a>",
+    "default":{
+            "data":{
+                "aid":"0",
+                "content":"img/c0.png",
+                "clickurl":"http://www.nihao.com",
+                "impurl":"http://www.qq.com",
+                "impurl3":"http://www.nihao.com"
+            },
+            "ifshowdefault":1
+        },
+    "country":{
+            "data":{
+                "aid":"111",
+                "content":"img/c1.png",
+                "clickurl":"http://www.nihao.com",
+                "impurl":"http://www.qq.com",
+                "impurl3":"http://www.nihao.com"
+            }
+        },
+     "city":{
+        "3-4-5-6":{
+            "data":{
+                "aid":"666",
+                "content":"img/m.gif",
+                "clickurl":"http://www.baidu.com",
+                "impurl":"http://www.qq.com",
+                "impurl3":"http://www.nihao.com"
+            }
+        },
+        "1":{
+            "data":{
+                "aid":"999",
+                "content":"img/c2.png",
+                "clickurl":"http://www.baidu.com",
+                "impurl":"http://www.qq.com",
+                "impurl3":"http://www.nihao.com"
+            }
+        },
+        "19":{
+            "data":{
+                "aid":"9991919",
+                "content":"img/c1.png",
+                "clickurl":"http://www.baidu.com",
+                "impurl":"http://www.qq.com",
+                "impurl3":"http://www.nihao.com"
+            }
+        }
+    }
+}
